@@ -1,0 +1,32 @@
+*{ font-family: sans-serif;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+.container{ 
+    padding-bottom: 50px;
+
+}
+.Buy-Now-Button{
+    background-color: black;
+    padding: 5px  5px ;
+    border-radius: 10px;
+    color: white;
+}
+.col-md-7{
+    padding: 50px;
+}
+.carousel-item{
+    background-color: lightslategray;
+}
+.see-more{
+    color: orange;
+}
+.card{
+    border:  ;
+}
+.catagories-img{
+    size: 30px;
+    justify-items: center;
+}
